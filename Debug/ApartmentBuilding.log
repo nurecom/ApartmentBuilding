@@ -1,0 +1,10 @@
+﻿  Flat.cpp
+  House.cpp
+  main.cpp
+C:\Users\DELL\source\repos\ApartmentBuilding\main.cpp(54,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\ApartmentBuilding\main.cpp(58,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\ApartmentBuilding\main.cpp(62,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\ApartmentBuilding\main.cpp(70,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\ApartmentBuilding\main.cpp(76,4): warning C4551: в вызове функции отсутствует список аргументов
+  Создание кода...
+  ApartmentBuilding.vcxproj -> C:\Users\DELL\source\repos\ApartmentBuilding\Debug\ApartmentBuilding.exe
